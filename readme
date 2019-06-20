@@ -1,0 +1,17 @@
+Shirisha Kadiri
+B00766566
+skadiri1@binghamton.edu
+
+Computer networks
+Project 2
+Build a File Transfer Application based on UDP protocol
+
+Instructions to execute
+Client
+	hostname -I
+	1. gcc -o client client.c
+	2. ./client fileName portNumber
+Server
+	1. gcc -o server server.c 
+	2. ./server fileName portAddress portNumber
+
